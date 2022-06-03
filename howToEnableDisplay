@@ -1,4 +1,0 @@
-**Basic facts**
-While using the robotframework for creating the test framework for selenium. have faced with thhe error that chormedriver is missing. After installing the chromedriver, 
-there were other errors , which were mostly packages missing. With all packages in place, still the basic test case of opening a browser and closing the same did not 
-work as expected.
